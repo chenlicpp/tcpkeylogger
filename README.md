@@ -1,4 +1,6 @@
 # tcpkeylogger
+警告:此程式很廢
+
 遠端鍵盤側錄器for windows<br>
 1.server端需先啟動(keyloggerserver.exe)。<br>
 2.啟動client端(keyloggerclient.exe)，輸入server端ip。<br>
